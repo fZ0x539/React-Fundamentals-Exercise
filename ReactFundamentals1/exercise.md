@@ -26,3 +26,7 @@ Use an **array of objects** to represent the data and style the table using **Bo
      { id: 5, name: "Edward", subject: "Math", grade: "C" },
    ];
    ```
+
+
+   ##Result:
+   ![Alt Text](assets/screenshot.png)
